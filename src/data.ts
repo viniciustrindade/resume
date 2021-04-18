@@ -1,7 +1,7 @@
 const data = {
   picture: `${process.env.PUBLIC_URL}/img/pic.jpg`,
   lastModification: new Date(),
-  aboutme: 'Fanatic for technology always looking for challenges and opportunities. Currently working in an environmental company and in other projects in free time. Has used several technology to improve skills and always been search for new technologic approaches.',
+  aboutme: 'Fanatic for technology always looking for challenges and opportunities. Has used several technology to improve skills and always been search for new technologic approaches.',
   career_sumary: 'Results oriented IT developing with more than 15 years of experience on web system development, acting as develop engineer for agriculture, mining and petrochemical industry areas. Strong knowledge and experience in Full Stack Development .Team lead and player with good communication skills.',
   company: {
     name: 'Vinicius Trindade',
