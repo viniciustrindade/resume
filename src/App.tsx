@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
 
 const Header: React.FunctionComponent<any> = ({ data }) => (
   <div>
@@ -39,7 +38,7 @@ const Header: React.FunctionComponent<any> = ({ data }) => (
       </div>
     </header>
   </div>);
-const Navigation: React.FunctionComponent<any> = ({ data }) => (
+const Navigation: React.FunctionComponent<any> = ({ }) => (
   <div className="navigation">
     <div className="container">
       <div className="row">
