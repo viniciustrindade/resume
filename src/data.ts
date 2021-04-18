@@ -2,6 +2,7 @@ const data = {
   picture: `${process.env.PUBLIC_URL}/img/pic.jpg`,
   lastModification: new Date(),
   aboutme: 'Fanatic for technology always looking for challenges and opportunities. Currently working in an environmental company and in other projects in free time. Has used several technology to improve skills and always been search for new technologic approaches.',
+  career_sumary: 'Results oriented IT developing with more than 15 years of experience on web system development, acting as develop engineer for agriculture, mining and petrochemical industry areas. Strong knowledge and experience in Full Stack Development .Team lead and player with good communication skills.',
   company: {
     name: 'Vinicius Trindade',
     addressLine1: 'Salvador, BA',
@@ -29,8 +30,8 @@ const data = {
       title: ''
     },
     gitlab: {
-      url: 'https://gitlab.com/viniciustrindade',
-      title: 'Some projects that I\'m following, forking and coding.'
+      url: '',
+      title: ''
     },
     github: {
       url: 'https://github.com/viniciustrindade',
@@ -38,7 +39,7 @@ const data = {
     },
   },
   title: 'Vinicius Trindade',
-  subTitle: 'System Analyst and Web Developer',
+  subTitle: 'Senior Full Stack Developer',
   phone: {
     url: '#',
     number: '',
@@ -47,7 +48,6 @@ const data = {
     address: 'contact@viniciustrindade.com.br',
     subject: '[Site Contact]&body=I saw your CV OnLine. Please, get in touch. Thanks.'
   },
-  career_sumary: 'Results oriented IT developing with more than 7 years of experience on web system development, acting as develop engineer for agriculture, mining and petrochemical industry areas. Strong knowledge and experience in geographic information system (GIS).Team lead and player with good communication skills.',
   education: [
     {
       title: 'Master of Computer Science at UFBA – Universidade Federal da Bahia, WISER (Web, Internet and Intelligent Systems Research Group).',
