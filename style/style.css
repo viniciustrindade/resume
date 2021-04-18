@@ -163,7 +163,7 @@ margin:20px 0px;
 }
 
 .box{
-width:24%;
+width:32.5%;
 margin:10px 0.36%;
 float:left;
 text-align:center;
@@ -331,6 +331,7 @@ font-size:18px;
 }
 
 .skill{
+margin-right: 2px;
 background:#6e8d00;
 color:#fff;
 border-radius:5px;
