@@ -11,7 +11,7 @@ const data = {
   social: {
     site: {
       url: 'http://www.viniciustrindade.com.br',
-      title: 'My Site'
+      title: 'My Web Site'
     },
     facebook: {
       url: '',
