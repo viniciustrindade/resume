@@ -1,0 +1,22 @@
+# Vinicius Trindade
+
+> Senior software engineer based in Salvador, Brazil, working remotely with US and European teams (full overlap with US Eastern time). 20+ years building and running production systems. Focus: backend and infrastructure (Node.js, TypeScript, PostgreSQL, AWS since 2016), AI/ML in production, and deterministic multi-agent orchestration. Open to remote Senior and Staff Software Engineer, Backend, Full Stack and AI/ML Engineer roles.
+
+Key facts:
+- Built an ML pipeline at Scopio that classified 3 million design files in under 3 hours (92.9% Macro F1, 99.3% ROC AUC) using an in-house XGBoost model with Gemini as teacher and validator.
+- Sole backend engineer of the HoxxTV OTT streaming platform (10,000 subscribers), shipping to web, iOS, Android, Smart TV and desktop from one TypeScript monorepo (Feb 2025 – Nov 2026).
+- Senior Software Engineer, Architect & Advisor at the Federal University of Bahia since 2016; lead architect of an academic system with 120,000 new students per year.
+- Founder of Solidareasy (2017), which runs doamais, the first online donation platform for NGOs in Salvador, and a research arm on multi-agent orchestration.
+- Author of hermesQ, an open-source bridge that delivers GitHub, Linear, Stripe and Slack webhooks to AI agents through a Cloudflare Worker.
+
+## Profile
+- [Website](https://www.viniciustrindade.com.br/): portfolio and summary
+- [Full resume in plain text](https://www.viniciustrindade.com.br/llms-full.txt): complete work history, skills and education
+- [LinkedIn](https://www.linkedin.com/in/viniciustrindade): professional profile
+- [GitHub](https://github.com/viniciustrindade): code and open source
+
+## Open source
+- [hermesQ](https://github.com/viniciustrindade/hermesq): webhooks on a Cloudflare Worker, handed to Hermes agents over outbound-only long-poll
+
+## Contact
+- Email: contact@viniciustrindade.com.br
